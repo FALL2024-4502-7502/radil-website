@@ -10,7 +10,7 @@ h1{
 }
 
 h2{
-.roboto-condensed-<uniquifier> {
+
   font-family: "Roboto Condensed", serif;
   font-optical-sizing: auto;
   font-weight: <weight>;
@@ -18,13 +18,18 @@ h2{
 }
 
 h3{
-.kanit-regular {
+
   font-family: "Kanit", sans-serif;
   font-weight: 400;
   font-style: normal;	
 }
+p {
+  font-family: "Roboto Condensed", serif;
+  font-weight: 100;
+  font-style: normal;
 
+}
 img {
 
-  max-width: 100%;
+  width: 100%;
 }
