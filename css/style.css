@@ -3,6 +3,10 @@ body {
 padding: 1em;
 }
 
+main {
+  width: 90%;
+  max-width: 1000px
+
 h1{
   font-family: "Lato", sans-serif;
   font-weight: 100;
@@ -35,6 +39,10 @@ img {
 }
 
 .list-item{
+  display: flex;
+  flex-wrap:wrap;*/
+  box shadow: insert 1rem 1rem gold;
+  border-radius: 3px;
 
 
 }
