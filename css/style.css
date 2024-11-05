@@ -33,6 +33,17 @@ p {
   font-style: normal;
 
 }
+
+.home-image {
+  max-width: 800px;
+
+}
+
+.home-image img{
+  max-width: 100%;
+  
+}
+
 img {
 
   width: 100%;
