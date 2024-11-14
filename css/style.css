@@ -9,14 +9,33 @@
   border: 0;
 }
 
+.skip-link: focus{
+  width: unset;
+  height: unset;
+  position: relative;
+  padding: unset;
+  margin: unset;
+  font-size: 2rem;
+}
+
+html {
+  font-size: 20px;
+}
+
 body {
+  margin: 0px;
 	background-color: #CFECEC;
-padding: 1em;
+  padding: 1em;
 }
 
 main {
   width: 90%;
-  max-width: 1000px
+  max-width: 1000px;
+  background: #FFF;
+  border-radius: 1rem;
+  padding: 1rem 2 rem;
+  box-sizing: border-box;
+  margin: 1rem auto;
 }
 
 h1{
