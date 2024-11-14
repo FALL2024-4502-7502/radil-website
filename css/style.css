@@ -40,7 +40,7 @@ main {
 
   /*beginning updated nav and ul, ol*/
 nav {
-  color:#f5f4d0;
+  color:#5d8f8f;
   background-color: #fafafa;
   padding: 0;
   display: block;
@@ -58,7 +58,7 @@ ul, ol {
 /*end of updated nav and ul, ol*/
 
 nav a {
-  color:#f5f4d0;
+  color:#5d8f8f;
 }
 
 a {
@@ -112,7 +112,7 @@ nav li, nav li a {
 }
 
 .active {
-  background-color: #f5f4d0;
+  background-color: #5d8f8f;
   color: #000;
   padding: 1rem;
 }
@@ -200,7 +200,7 @@ address {
 }
 
 button {
-  background-color: #f5f4d0;
+  background-color: #5d8f8f;
   border: none;
   color: #000;
   text-align: center;
