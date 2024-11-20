@@ -24,7 +24,7 @@ if (currentPhotoNumber === photoDivs.length) {
 
 photoDivs [currentPhotoNumber].classList.remove('hideThis');
 
-photoNumber.innerHTML = (currentPhotoNumber + 1) + "out of " + photoDivs.length;
+photoNumber.innerHTML = (currentPhotoNumber + 1) + " out of " + photoDivs.length;
 
 });
 
