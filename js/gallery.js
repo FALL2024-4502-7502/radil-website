@@ -33,7 +33,7 @@ previousButton.addEventListener('click', function() {
 	currentPhotoNumber = currentPhotoNumber - 1;
 
 	if (currentPhotoNumber < 0) {
-		currentPhotoNumber = photoDivs.lenth - 1;
+		currentPhotoNumber = photoDivs.length - 1;
 	}
 
 photoDivs[currentPhotoNumber].classList.remove('hideThis');
